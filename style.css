@@ -1,0 +1,16 @@
+p{
+	margin: 0;
+}
+
+div[title^="subelement"]{
+	margin-left: 15px;
+	border-left: solid 2px #ddd;
+	margin-bottom: 10px;
+}
+
+.title{
+	border-top: solid 2px #eee;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
